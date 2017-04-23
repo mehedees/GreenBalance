@@ -1,0 +1,2 @@
+1. We have created a basic map using web programming. 
+2. Now we are going to build an algorithm using Nasa's Earth Science Data and will create seperate layers on the map that will mark areas representating their status regarding number of trees, air pollution and temperature. 
